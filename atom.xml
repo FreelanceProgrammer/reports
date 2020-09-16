@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://andy-ao.github.io/my-hexo/atom.xml" rel="self"/>
+  <link href="http://xrvu_zen.gitee.io/atom.xml" rel="self"/>
   
-  <link href="https://andy-ao.github.io/my-hexo/"/>
+  <link href="http://xrvu_zen.gitee.io/"/>
   <updated>2020-09-16T02:39:34.739Z</updated>
-  <id>https://andy-ao.github.io/my-hexo/</id>
+  <id>http://xrvu_zen.gitee.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://andy-ao.github.io/my-hexo/2020/09/16/hello-world/"/>
-    <id>https://andy-ao.github.io/my-hexo/2020/09/16/hello-world/</id>
+    <link href="http://xrvu_zen.gitee.io/2020/09/16/hello-world/"/>
+    <id>http://xrvu_zen.gitee.io/2020/09/16/hello-world/</id>
     <published>2020-09-16T02:39:34.738Z</published>
     <updated>2020-09-16T02:39:34.739Z</updated>
     

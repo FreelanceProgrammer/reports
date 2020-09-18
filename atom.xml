@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>独立开发者沙龙</title>
   
-  
+  <subtitle>自由联合，共同进步</subtitle>
   <link href="http://xrvu_zen.gitee.io/atom.xml" rel="self"/>
   
   <link href="http://xrvu_zen.gitee.io/"/>
-  <updated>2020-09-18T00:39:27.338Z</updated>
+  <updated>2020-09-18T01:42:59.140Z</updated>
   <id>http://xrvu_zen.gitee.io/</id>
   
   <author>
@@ -18,12 +18,12 @@
   
   <entry>
     <title>独立开发者沙龙</title>
-    <link href="http://xrvu_zen.gitee.io/2020/09/16/hello-world/"/>
-    <id>http://xrvu_zen.gitee.io/2020/09/16/hello-world/</id>
-    <published>2020-09-16T02:39:34.738Z</published>
-    <updated>2020-09-18T00:39:27.338Z</updated>
+    <link href="http://xrvu_zen.gitee.io/2020/08/19/hello-world/"/>
+    <id>http://xrvu_zen.gitee.io/2020/08/19/hello-world/</id>
+    <published>2020-08-19T01:00:00.000Z</published>
+    <updated>2020-09-18T01:42:59.140Z</updated>
     
-    <content type="html"><![CDATA[<p><em><a href="http://freelanceprogrammer.gitee.io/">考虑到网络环境，已迁移到GitEE</a></em></p><p>很多程序员想做自己的产品，而不是甘愿做公司里的螺丝钉。</p><p>有这样想法的人很多，少有人去尝试。</p><p>更可怕的是，就算做出来了产品，要不就是没人用，要不就是挣不了钱，这种情况很多见。</p><p>做产品有技术是基础，但是还有一些很重要的事情值得重视。</p><ul><li>产品的需求是否真的存在？</li><li>怎样宣传产品，让更多的人知道？</li><li>怎样定价？</li><li>该用什么模式获得收益？</li><li>产品后续应该怎么发展？</li></ul><p>组队计划想要聚集一批，正在「创造产品」，想要提升「产品能力」的开发者，交流产品开发路上的经验、教训甚至是困惑，共同学习和进步。</p><h2 id="加入我们"><a href="#加入我们" class="headerlink" title="加入我们"></a><a href="%E5%8A%A0%E5%85%A5%E6%88%91%E4%BB%AC.md">加入我们</a></h2><h2 id="发展历程"><a href="#发展历程" class="headerlink" title="发展历程"></a><a href="%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B.md">发展历程</a></h2><h2 id="FAQ"><a href="#FAQ" class="headerlink" title="FAQ"></a><a href="FAQ.md">FAQ</a></h2>]]></content>
+    <content type="html"><![CDATA[<p><em><a href="http://freelanceprogrammer.gitee.io/">考虑到网络环境，已迁移到GitEE</a></em></p><p>很多程序员想做自己的产品，而不是甘愿做公司里的螺丝钉。</p><p>有这样想法的人很多，少有人去尝试。</p><p>更可怕的是，就算做出来了产品，要不就是没人用，要不就是挣不了钱，这种情况很多见。</p><p>做产品有技术是基础，但是还有一些很重要的事情值得重视。</p><ul><li>产品的需求是否真的存在？</li><li>怎样宣传产品，让更多的人知道？</li><li>怎样定价？</li><li>该用什么模式获得收益？</li><li>产品后续应该怎么发展？</li></ul><p>组队计划想要聚集一批，正在「创造产品」，想要提升「产品能力」的开发者，交流产品开发路上的经验、教训甚至是困惑，共同学习和进步。</p><h2 id="加入我们"><a href="#加入我们" class="headerlink" title="加入我们"></a><a href="/join-us.html">加入我们</a></h2><h2 id="发展历程"><a href="#发展历程" class="headerlink" title="发展历程"></a><a href="/history.html">发展历程</a></h2><h2 id="FAQ"><a href="#FAQ" class="headerlink" title="FAQ"></a><a href="/faq.html">FAQ</a></h2>]]></content>
     
     
       

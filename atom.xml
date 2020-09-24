@@ -6,7 +6,7 @@
   <link href="http://xrvu_zen.gitee.io/atom.xml" rel="self"/>
   
   <link href="http://xrvu_zen.gitee.io/"/>
-  <updated>2020-09-24T03:47:26.874Z</updated>
+  <updated>2020-09-24T04:00:38.992Z</updated>
   <id>http://xrvu_zen.gitee.io/</id>
   
   <author>
@@ -15,50 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>独立开发者沙龙·周报：没有新的成员加入该怎么办？(第3期)</title>
-    <link href="http://xrvu_zen.gitee.io/2020/09/24/2020-09-24_%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E6%B2%99%E9%BE%99%C2%B7%E5%91%A8%E6%8A%A5%EF%BC%9A%E6%B2%A1%E6%9C%89%E6%96%B0%E7%9A%84%E6%88%90%E5%91%98%E5%8A%A0%E5%85%A5%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F(%E7%AC%AC3%E6%9C%9F)/"/>
-    <id>http://xrvu_zen.gitee.io/2020/09/24/2020-09-24_%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E6%B2%99%E9%BE%99%C2%B7%E5%91%A8%E6%8A%A5%EF%BC%9A%E6%B2%A1%E6%9C%89%E6%96%B0%E7%9A%84%E6%88%90%E5%91%98%E5%8A%A0%E5%85%A5%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F(%E7%AC%AC3%E6%9C%9F)/</id>
-    <published>2020-09-24T01:00:00.000Z</published>
-    <updated>2020-09-24T03:47:26.874Z</updated>
-    
-    <content type="html"><![CDATA[<p>大家下午好 (*´▽｀)ノノ ，上周是<a href="https://freelanceprogrammer.gitee.io/">新组队计划</a>的第3周。</p><h2 id="本周回顾"><a href="#本周回顾" class="headerlink" title="本周回顾"></a>本周回顾</h2><h3 id="本周活跃度"><a href="#本周活跃度" class="headerlink" title="本周活跃度"></a>本周活跃度</h3><p>频道：+2</p><p>交流总次数：+79</p><p>交流总字数：+12,877</p><h3 id="增长问题"><a href="#增长问题" class="headerlink" title="增长问题"></a>增长问题</h3><p><a href="https://freelanceprogrammer.gitee.io/">这个项目</a>的诞生是「说干就干」的产物，没有任何理性的思考和计算。</p><p><a href="https://freelanceprogrammer.gitee.io/reports/2020/09/20/2020-09-20/">本周沙龙里面新开了两个频道</a>，分别是大佑的<a href="https://www.chatree.cn/">话树网络</a>和V2up的<a href="https://v2up.com/">v2up.com</a>，都在4天前建立，都已经有发布的产品，频道内的交流质量比较高。</p><p><strong><a href="https://www.chatree.cn/">话树网络</a>以及<a href="https://v2up.com/">v2up.com</a>的频道，分别有15条和14条回复，各有大概3000多字，从字数来看，比微信和普通论坛思考深入很多。</strong></p><p>从indiehackers.net的首页上找个精品帖，已经创建超过1个月，<a href="https://indiehackers.net/topics/510">【一个天天领外卖红包的导航小程序】花了半天时间做的——叫外卖欢迎领券 · IndieHackers</a>，而且还加精了，回复只有2条，每条10个字…</p><p><img src="https://i.loli.net/2020/09/24/PNOBhkorLbYZEVT.png"></p><p>关键是这个回复更像是寒暄，谈不上信息交换</p><p>微信群也是类似了，大多数信息也就几十个字，甚至很多时候就只是发个表情，给群主挽尊，然后就沉默不语了。</p><p><img src="https://i.loli.net/2020/09/24/YxEDZbMcW3FGraC.png"></p><hr><p>我本周在阅读《精益创业》并且在频道 <code>#《精益创业》案例盘点</code> 中更新自己的读书笔记，算是对做产品有点基本了解，最重要的两个假设分别是<strong>「价值假设」和「增长假设」</strong>。</p><p><strong>「价值假设」可以说已经在某个程度上得到了验证，上面的频道交流的深度明显更高，说明和别的交流方法有区别，还是有点价值的；但是「增长假设」可以说一直没有。</strong></p><p><strong>这是目前最大的困惑。</strong></p><p>上次说到，会和小楼的「独立开发者」公众号进行合作，当然我很希望能成，并且和小楼保持了很密切的配合。虽然这个公众号名字非常好，占据了好位置，但直觉告诉我，这条路不好走，见过很多朋友创立过自己的微信公众号，但大多都失败了。</p><p><img src="https://i.loli.net/2020/09/24/dJ3q8ivWDPwyTMH.png"></p><h3 id="并不想要的未来"><a href="#并不想要的未来" class="headerlink" title="并不想要的未来"></a>并不想要的未来</h3><p>突然想到，如果某天能够增长到几百人，都挤在同个Discord服务器里面，那这个项目的存在也就没什么必要了，这不是设想的未来。</p><p>这个项目最初的预想就是建立比较可信的关系，大家比较熟悉，现在的氛围还挺满意的，有点偏向于大学宿舍，大家彼此都较为了解，那么回复的诚意就比较足，思考也比较深，情绪化的内容变得比较少。</p><p>这种氛围在互联网上好像有点可遇不可求，想不出有什么产品专门做这种形式的社交网络。</p><p>人数变多之后，恐怕这个氛围就会消失了，这是难以接受的。</p><p>如果某天频道数增长超过15个，可能就需要新建服务器，强制限制人数了。</p><h2 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h2><p>按照《精益创业》这本书上所说，对于创新组织来说，增长不是衡量进展的好方法，因为<strong>学习</strong>比单纯的增长(利润或客户)更重要。</p><p>获得可证实的认知，找到真正需求，验证项目赖以生存的基本假设。</p><p>从这个意义上来说，感觉还是成功的，我真正开始学习和思考这些问题了。</p><p>:)</p><p>Andy_2020年09月24日</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;大家下午好 (*´▽｀)ノノ ，上周是&lt;a href=&quot;https://freelanceprogrammer.gitee.io/&quot;&gt;新组队计划&lt;/a&gt;的第3周。&lt;/p&gt;
-&lt;h2 id=&quot;本周回顾&quot;&gt;&lt;a href=&quot;#本周回顾&quot; class=&quot;headerlink&quot; ti</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2020年09月24日-每日报告</title>
-    <link href="http://xrvu_zen.gitee.io/2020/09/24/2020-09-24/"/>
-    <id>http://xrvu_zen.gitee.io/2020/09/24/2020-09-24/</id>
-    <published>2020-09-24T01:00:00.000Z</published>
-    <updated>2020-09-24T02:30:08.197Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h1><p>大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第20个每日报告。</p><ol><li>学习《精益创业》</li></ol><h1 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h1><p>将精益创业的思想用在该项目中</p><p><img src="https://i.loli.net/2020/09/20/V2kRBxpm8jzEYLN.png"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;昨日回顾&quot;&gt;&lt;a href=&quot;#昨日回顾&quot; class=&quot;headerlink&quot; title=&quot;昨日回顾&quot;&gt;&lt;/a&gt;昨日回顾&lt;/h1&gt;&lt;p&gt;大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第20个每日报告。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;学习《精益创业》&lt;/li&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>独立开发者沙龙·第3周周报</title>
@@ -452,6 +408,52 @@
 &lt;ol&gt;
 &lt;li&gt;组织先遣队的首次沟通&lt;/li&gt;
 &lt;/ol</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2020年09月06日-每日报告</title>
+    <link href="http://xrvu_zen.gitee.io/2020/09/06/2020-09-06/"/>
+    <id>http://xrvu_zen.gitee.io/2020/09/06/2020-09-06/</id>
+    <published>2020-09-06T01:00:00.000Z</published>
+    <updated>2020-09-18T05:40:30.004Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h3><p>大家早上好 (*´▽｀)ノノ ，昨天是新组队计划的第3天</p><ol><li>招募先遣队</li><li>删除从未参与和发言的群友</li><li>找到国内能够访问的活动开展地点</li></ol><h3 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h3><ol><li>在先遣队内实现有效沟通(计划为期1周)</li></ol><h3 id="进度示意图"><a href="#进度示意图" class="headerlink" title="进度示意图"></a>进度示意图</h3><p><img src="https://i.loli.net/2020/09/18/EASfL4ZyplYwQHW.png"></p><p>有任何建议都可以在微信上私聊反馈</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;昨日回顾&quot;&gt;&lt;a href=&quot;#昨日回顾&quot; class=&quot;headerlink&quot; title=&quot;昨日回顾&quot;&gt;&lt;/a&gt;昨日回顾&lt;/h3&gt;&lt;p&gt;大家早上好 (*´▽｀)ノノ ，昨天是新组队计划的第3天&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;招募先遣队&lt;/li&gt;
+&lt;li&gt;删除从未参</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2020年09月05日-每日报告</title>
+    <link href="http://xrvu_zen.gitee.io/2020/09/05/2020-09-05/"/>
+    <id>http://xrvu_zen.gitee.io/2020/09/05/2020-09-05/</id>
+    <published>2020-09-05T01:00:00.000Z</published>
+    <updated>2020-09-18T05:45:13.696Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h3><p>大家早上好 (*´▽｀)ノノ ，昨天是新组队计划的第2天</p><ol><li><p>建立每日报告制度</p></li><li><p>移除部分群员</p></li></ol><h3 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h3><ol><li>筛查成员</li><li>设置入群人员筛选</li><li>招募先锋队</li></ol><h3 id="进度示意图"><a href="#进度示意图" class="headerlink" title="进度示意图"></a>进度示意图</h3><p><img src="https://i.loli.net/2020/09/18/hEiJKbNx63Qf1gd.jpg"></p><p>有任何建议都可以在微信上私聊反馈</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;昨日回顾&quot;&gt;&lt;a href=&quot;#昨日回顾&quot; class=&quot;headerlink&quot; title=&quot;昨日回顾&quot;&gt;&lt;/a&gt;昨日回顾&lt;/h3&gt;&lt;p&gt;大家早上好 (*´▽｀)ノノ ，昨天是新组队计划的第2天&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;建立每日报告制度&lt;/p&gt;
+&lt;/li</summary>
       
     
     

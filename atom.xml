@@ -6,7 +6,7 @@
   <link href="http://xrvu_zen.gitee.io/atom.xml" rel="self"/>
   
   <link href="http://xrvu_zen.gitee.io/"/>
-  <updated>2020-09-28T09:17:58.959Z</updated>
+  <updated>2020-09-30T13:19:55.571Z</updated>
   <id>http://xrvu_zen.gitee.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2020年09月30日-每日报告</title>
+    <link href="http://xrvu_zen.gitee.io/2020/09/30/2020-09-30/"/>
+    <id>http://xrvu_zen.gitee.io/2020/09/30/2020-09-30/</id>
+    <published>2020-09-29T16:00:00.000Z</published>
+    <updated>2020-09-30T13:19:55.571Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h1><p>写了个PowerShell脚本，初步实现了每日报告编写的自动化。</p><p>现在还是需要打开这个编辑器窗口，手动改改日期什么的。</p><p>后面的自动化程度将会进一步加深，让写每日报告更轻松。</p><ol><li><p>自动化填写日期。</p></li><li><p>如果是简单的报告，可以直接在PowerShell中提交。</p></li><li><p>关闭窗口后自动推送和部署。</p></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;昨日回顾&quot;&gt;&lt;a href=&quot;#昨日回顾&quot; class=&quot;headerlink&quot; title=&quot;昨日回顾&quot;&gt;&lt;/a&gt;昨日回顾&lt;/h1&gt;&lt;p&gt;写了个PowerShell脚本，初步实现了每日报告编写的自动化。&lt;/p&gt;
+&lt;p&gt;现在还是需要打开这个编辑器窗口，手动改改日期</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>2020年09月28日-每日报告</title>
@@ -431,29 +452,6 @@
 &lt;ol&gt;
 &lt;li&gt;试验阶段结束&lt;/li&gt;
 &lt;li&gt;对所有的</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2020年09月08日-每日报告</title>
-    <link href="http://xrvu_zen.gitee.io/2020/09/08/2020-09-08/"/>
-    <id>http://xrvu_zen.gitee.io/2020/09/08/2020-09-08/</id>
-    <published>2020-09-08T01:00:00.000Z</published>
-    <updated>2020-09-18T05:40:38.317Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h3><p>大家早上好 (*´▽｀)ノノ ，昨天是新组队计划的第5天</p><ol><li>先遣队的更深入交流</li></ol><p>大家开始在不同的频道下进行探讨了，发展符合预期，参与讨论的人也较为满意。<br>但是还有几个成员不知道为什么始终都没有发言，可能是遇到了什么问题。</p><h3 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h3><ol><li>解决阻碍队友发言的问题</li></ol><h3 id="进度示意图"><a href="#进度示意图" class="headerlink" title="进度示意图"></a>进度示意图</h3><p>进度没有发生变化</p><p><img src="https://i.loli.net/2020/09/18/EASfL4ZyplYwQHW.png"><br>有任何建议都可以在微信上私聊反馈</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h3 id=&quot;昨日回顾&quot;&gt;&lt;a href=&quot;#昨日回顾&quot; class=&quot;headerlink&quot; title=&quot;昨日回顾&quot;&gt;&lt;/a&gt;昨日回顾&lt;/h3&gt;&lt;p&gt;大家早上好 (*´▽｀)ノノ ，昨天是新组队计划的第5天&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;先遣队的更深入交流&lt;/li&gt;
-&lt;/ol&gt;</summary>
       
     
     

@@ -68,21 +68,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>2020年09月09日-每日报告</title>
-    <url>/reports/2020/09/09/2020-09-09/</url>
-    <content><![CDATA[<h3 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h3><p>大家早上好 (*´▽｀)ノノ ，昨天是新组队计划的第6天</p>
-<ol>
-<li>试验阶段结束</li>
-<li>对所有的文档都进行了重写，便于迎接新阶段</li>
-<li>通知微信群中的成员加入Discord，开始活动</li>
-</ol>
-<h3 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h3><ol>
-<li>在V2EX发帖，报告新进展，招募新成员</li>
-</ol>
-<h3 id="进度示意图"><a href="#进度示意图" class="headerlink" title="进度示意图"></a>进度示意图</h3><p>​    <img src="https://i.loli.net/2020/09/09/nDdPzsNeqr2O4by.png"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>2020年09月08日-每日报告</title>
     <url>/reports/2020/09/08/2020-09-08/</url>
     <content><![CDATA[<h3 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h3><p>大家早上好 (*´▽｀)ノノ ，昨天是新组队计划的第5天</p>
@@ -95,6 +80,21 @@
 </ol>
 <h3 id="进度示意图"><a href="#进度示意图" class="headerlink" title="进度示意图"></a>进度示意图</h3><p>进度没有发生变化</p>
 <p><img src="https://i.loli.net/2020/09/18/EASfL4ZyplYwQHW.png"><br>有任何建议都可以在微信上私聊反馈</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2020年09月09日-每日报告</title>
+    <url>/reports/2020/09/09/2020-09-09/</url>
+    <content><![CDATA[<h3 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h3><p>大家早上好 (*´▽｀)ノノ ，昨天是新组队计划的第6天</p>
+<ol>
+<li>试验阶段结束</li>
+<li>对所有的文档都进行了重写，便于迎接新阶段</li>
+<li>通知微信群中的成员加入Discord，开始活动</li>
+</ol>
+<h3 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h3><ol>
+<li>在V2EX发帖，报告新进展，招募新成员</li>
+</ol>
+<h3 id="进度示意图"><a href="#进度示意图" class="headerlink" title="进度示意图"></a>进度示意图</h3><p>​    <img src="https://i.loli.net/2020/09/09/nDdPzsNeqr2O4by.png"></p>
 ]]></content>
   </entry>
   <entry>
@@ -361,6 +361,22 @@
 <ol>
 <li>加 <a href="https://indiehackers.net/">https://indiehackers.net/</a> 为友链</li>
 <li>思考获得新成员的其他途径</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>2020年09月30日-每日报告</title>
+    <url>/reports/2020/09/30/2020-09-30/</url>
+    <content><![CDATA[<h1 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h1><p>写了个PowerShell脚本，初步实现了每日报告编写的自动化。</p>
+<p>现在还是需要打开这个编辑器窗口，手动改改日期什么的。</p>
+<p>后面的自动化程度将会进一步加深，让写每日报告更轻松。</p>
+<ol>
+<li><p>自动化填写日期。</p>
+</li>
+<li><p>如果是简单的报告，可以直接在PowerShell中提交。</p>
+</li>
+<li><p>关闭窗口后自动推送和部署。</p>
+</li>
 </ol>
 ]]></content>
   </entry>

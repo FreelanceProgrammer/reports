@@ -6,7 +6,7 @@
   <link href="http://xrvu_zen.gitee.io/atom.xml" rel="self"/>
   
   <link href="http://xrvu_zen.gitee.io/"/>
-  <updated>2020-10-03T11:17:11.121Z</updated>
+  <updated>2020-10-06T08:09:48.214Z</updated>
   <id>http://xrvu_zen.gitee.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2020年10月6日-每日报告</title>
+    <link href="http://xrvu_zen.gitee.io/2020/10/06/2020-10-06/"/>
+    <id>http://xrvu_zen.gitee.io/2020/10/06/2020-10-06/</id>
+    <published>2020-10-05T16:00:00.000Z</published>
+    <updated>2020-10-06T08:09:48.214Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h1><p>在「飞书」组成团队展开协作，之后会有条不紊的坚持发展。</p><hr><p>每日报告停止发布，后面的内容都比较细，发出来也没人看得懂，只在团队内发布。</p><p>每周报告，也许还会继续出。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;昨日回顾&quot;&gt;&lt;a href=&quot;#昨日回顾&quot; class=&quot;headerlink&quot; title=&quot;昨日回顾&quot;&gt;&lt;/a&gt;昨日回顾&lt;/h1&gt;&lt;p&gt;在「飞书」组成团队展开协作，之后会有条不紊的坚持发展。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;每日报告停止发布，后面的内容都比较细，发出来</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>2020年10月3日-每日报告</title>
@@ -369,28 +391,6 @@
   </entry>
   
   <entry>
-    <title>2020年09月13日-每日报告</title>
-    <link href="http://xrvu_zen.gitee.io/2020/09/14/2020-09-14/"/>
-    <id>http://xrvu_zen.gitee.io/2020/09/14/2020-09-14/</id>
-    <published>2020-09-14T01:00:00.000Z</published>
-    <updated>2020-09-18T06:11:32.877Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h3><p>大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第10天</p><ol><li>学习Jekyll，以便「为Page更换样式和添加目录」</li></ol><p>GitEE的Page服务比起GitHub差很多，目前Jekyll theme大多是为GitHub设计的，<a href="https://github.blog/2017-11-29-use-any-theme-with-github-pages/">只需要在配置文件中添加1行就能直接应用</a>，GitEE好像用不了。</p><p>本来以为使用主题就行了，现在看来还要继续学习，又要推迟了。╮(╯▽╰)╭</p><h3 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h3><p>为Page更换样式和添加目录</p><p><img src="https://i.loli.net/2020/09/13/toNBFI9xYRukUq7.png"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h3 id=&quot;昨日回顾&quot;&gt;&lt;a href=&quot;#昨日回顾&quot; class=&quot;headerlink&quot; title=&quot;昨日回顾&quot;&gt;&lt;/a&gt;昨日回顾&lt;/h3&gt;&lt;p&gt;大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第10天&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;学习Jekyll，以便「为Page更换</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>2020年09月15日-每日报告</title>
     <link href="http://xrvu_zen.gitee.io/2020/09/14/2020-09-15/"/>
     <id>http://xrvu_zen.gitee.io/2020/09/14/2020-09-15/</id>
@@ -413,6 +413,28 @@
   
   <entry>
     <title>2020年09月13日-每日报告</title>
+    <link href="http://xrvu_zen.gitee.io/2020/09/14/2020-09-14/"/>
+    <id>http://xrvu_zen.gitee.io/2020/09/14/2020-09-14/</id>
+    <published>2020-09-14T01:00:00.000Z</published>
+    <updated>2020-09-18T06:11:32.877Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h3><p>大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第10天</p><ol><li>学习Jekyll，以便「为Page更换样式和添加目录」</li></ol><p>GitEE的Page服务比起GitHub差很多，目前Jekyll theme大多是为GitHub设计的，<a href="https://github.blog/2017-11-29-use-any-theme-with-github-pages/">只需要在配置文件中添加1行就能直接应用</a>，GitEE好像用不了。</p><p>本来以为使用主题就行了，现在看来还要继续学习，又要推迟了。╮(╯▽╰)╭</p><h3 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h3><p>为Page更换样式和添加目录</p><p><img src="https://i.loli.net/2020/09/13/toNBFI9xYRukUq7.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;昨日回顾&quot;&gt;&lt;a href=&quot;#昨日回顾&quot; class=&quot;headerlink&quot; title=&quot;昨日回顾&quot;&gt;&lt;/a&gt;昨日回顾&lt;/h3&gt;&lt;p&gt;大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第10天&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;学习Jekyll，以便「为Page更换</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2020年09月13日-每日报告</title>
     <link href="http://xrvu_zen.gitee.io/2020/09/13/2020-09-13/"/>
     <id>http://xrvu_zen.gitee.io/2020/09/13/2020-09-13/</id>
     <published>2020-09-13T01:00:00.000Z</published>
@@ -426,28 +448,6 @@
     <summary type="html">&lt;h3 id=&quot;昨日回顾&quot;&gt;&lt;a href=&quot;#昨日回顾&quot; class=&quot;headerlink&quot; title=&quot;昨日回顾&quot;&gt;&lt;/a&gt;昨日回顾&lt;/h3&gt;&lt;p&gt;大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第9天&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;和小楼通话，讨论关于「独立开发者」公众号</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2020年09月12日-每日报告</title>
-    <link href="http://xrvu_zen.gitee.io/2020/09/12/2020-09-12/"/>
-    <id>http://xrvu_zen.gitee.io/2020/09/12/2020-09-12/</id>
-    <published>2020-09-12T01:00:00.000Z</published>
-    <updated>2020-09-18T06:11:18.196Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h3><p>大家晚上好 (*´▽｀)ノノ ，昨天是新组队计划的第8天</p><ol><li>在知乎<a href="https://zhuanlan.zhihu.com/p/237380259">发帖</a>宣传</li><li>继续学习Jekyll，以便为Page更换样式和添加目录</li></ol><h3 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h3><p>为Page更换样式和添加目录</p><p><img src="https://i.loli.net/2020/09/12/QxqPJoDrYyHtA4l.png"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h3 id=&quot;昨日回顾&quot;&gt;&lt;a href=&quot;#昨日回顾&quot; class=&quot;headerlink&quot; title=&quot;昨日回顾&quot;&gt;&lt;/a&gt;昨日回顾&lt;/h3&gt;&lt;p&gt;大家晚上好 (*´▽｀)ノノ ，昨天是新组队计划的第8天&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;在知乎&lt;a href=&quot;https://</summary>
       
     
     

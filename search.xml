@@ -68,6 +68,28 @@
 ]]></content>
   </entry>
   <entry>
+    <title>2020年09月11日-每日报告</title>
+    <url>/reports/2020/09/11/2020-09-11/</url>
+    <content><![CDATA[<h3 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h3><p>大家上午好 (*´▽｀)ノノ ，昨天是新组队计划的第7天</p>
+<ol>
+<li>在V2EX发帖，报告新进展，招募新成员</li>
+</ol>
+<h3 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h3><p>休息</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2020年09月12日-每日报告</title>
+    <url>/reports/2020/09/12/2020-09-12/</url>
+    <content><![CDATA[<h3 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h3><p>大家晚上好 (*´▽｀)ノノ ，昨天是新组队计划的第8天</p>
+<ol>
+<li>在知乎<a href="https://zhuanlan.zhihu.com/p/237380259">发帖</a>宣传</li>
+<li>继续学习Jekyll，以便为Page更换样式和添加目录</li>
+</ol>
+<h3 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h3><p>为Page更换样式和添加目录</p>
+<p><img src="https://i.loli.net/2020/09/12/QxqPJoDrYyHtA4l.png"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>2020年09月08日-每日报告</title>
     <url>/reports/2020/09/08/2020-09-08/</url>
     <content><![CDATA[<h3 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h3><p>大家早上好 (*´▽｀)ノノ ，昨天是新组队计划的第5天</p>
@@ -117,34 +139,25 @@
 ]]></content>
   </entry>
   <entry>
-    <title>2020年09月11日-每日报告</title>
-    <url>/reports/2020/09/11/2020-09-11/</url>
-    <content><![CDATA[<h3 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h3><p>大家上午好 (*´▽｀)ノノ ，昨天是新组队计划的第7天</p>
-<ol>
-<li>在V2EX发帖，报告新进展，招募新成员</li>
-</ol>
-<h3 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h3><p>休息</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>2020年09月12日-每日报告</title>
-    <url>/reports/2020/09/12/2020-09-12/</url>
-    <content><![CDATA[<h3 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h3><p>大家晚上好 (*´▽｀)ノノ ，昨天是新组队计划的第8天</p>
-<ol>
-<li>在知乎<a href="https://zhuanlan.zhihu.com/p/237380259">发帖</a>宣传</li>
-<li>继续学习Jekyll，以便为Page更换样式和添加目录</li>
-</ol>
-<h3 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h3><p>为Page更换样式和添加目录</p>
-<p><img src="https://i.loli.net/2020/09/12/QxqPJoDrYyHtA4l.png"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>2020年09月13日-每日报告</title>
     <url>/reports/2020/09/13/2020-09-13/</url>
     <content><![CDATA[<h3 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h3><p>大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第9天</p>
 <ol>
 <li>和小楼通话，讨论关于「独立开发者」公众号运营的问题</li>
 </ol>
+<h3 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h3><p>为Page更换样式和添加目录</p>
+<p><img src="https://i.loli.net/2020/09/13/toNBFI9xYRukUq7.png"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2020年09月13日-每日报告</title>
+    <url>/reports/2020/09/14/2020-09-14/</url>
+    <content><![CDATA[<h3 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h3><p>大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第10天</p>
+<ol>
+<li>学习Jekyll，以便「为Page更换样式和添加目录」</li>
+</ol>
+<p>GitEE的Page服务比起GitHub差很多，目前Jekyll theme大多是为GitHub设计的，<a href="https://github.blog/2017-11-29-use-any-theme-with-github-pages/">只需要在配置文件中添加1行就能直接应用</a>，GitEE好像用不了。</p>
+<p>本来以为使用主题就行了，现在看来还要继续学习，又要推迟了。╮(╯▽╰)╭</p>
 <h3 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h3><p>为Page更换样式和添加目录</p>
 <p><img src="https://i.loli.net/2020/09/13/toNBFI9xYRukUq7.png"></p>
 ]]></content>
@@ -170,16 +183,17 @@
 ]]></content>
   </entry>
   <entry>
-    <title>2020年09月13日-每日报告</title>
-    <url>/reports/2020/09/14/2020-09-14/</url>
-    <content><![CDATA[<h3 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h3><p>大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第10天</p>
+    <title>2020年09月18日-每日报告</title>
+    <url>/reports/2020/09/18/2020-09-18/</url>
+    <content><![CDATA[<h3 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h3><p>大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第12天</p>
 <ol>
-<li>学习Jekyll，以便「为Page更换样式和添加目录」</li>
+<li>为<a href="https://freelanceprogrammer.gitee.io/">项目主页</a>更换更好的样式</li>
+<li>将<a href="https://freelanceprogrammer.gitee.io/reports/">发展报告</a>独立并制作Page</li>
 </ol>
-<p>GitEE的Page服务比起GitHub差很多，目前Jekyll theme大多是为GitHub设计的，<a href="https://github.blog/2017-11-29-use-any-theme-with-github-pages/">只需要在配置文件中添加1行就能直接应用</a>，GitEE好像用不了。</p>
-<p>本来以为使用主题就行了，现在看来还要继续学习，又要推迟了。╮(╯▽╰)╭</p>
-<h3 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h3><p>为Page更换样式和添加目录</p>
-<p><img src="https://i.loli.net/2020/09/13/toNBFI9xYRukUq7.png"></p>
+<h3 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h3><ol>
+<li>实现GitEE和GitHub一键推送</li>
+</ol>
+<p><img src="https://i.loli.net/2020/09/16/UuEjJXFWfqOnx3Y.png"></p>
 ]]></content>
   </entry>
   <entry>
@@ -250,31 +264,10 @@
 ]]></content>
   </entry>
   <entry>
-    <title>2020年09月18日-每日报告</title>
-    <url>/reports/2020/09/18/2020-09-18/</url>
-    <content><![CDATA[<h3 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h3><p>大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第12天</p>
-<ol>
-<li>为<a href="https://freelanceprogrammer.gitee.io/">项目主页</a>更换更好的样式</li>
-<li>将<a href="https://freelanceprogrammer.gitee.io/reports/">发展报告</a>独立并制作Page</li>
-</ol>
-<h3 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h3><ol>
-<li>实现GitEE和GitHub一键推送</li>
-</ol>
-<p><img src="https://i.loli.net/2020/09/16/UuEjJXFWfqOnx3Y.png"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>2020年09月21日-每日报告</title>
-    <url>/reports/2020/09/21/2020-09-21/</url>
-    <content><![CDATA[<h1 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h1><p>大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第17个每日报告。</p>
-<ol>
-<li>学习《精益创业》</li>
-</ol>
-<p>目前看来加入频道的人，还是有不少交流和发言的，比微信群活跃，那么接下来也许要继续招募相关的人员。</p>
-<p>微信群也不怎么活跃，目前我已经连续发了三条，没有人后续说话。</p>
-<p>就不往那里面发了，但每日报告还是继续更新。</p>
-<h1 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h1><p>将精益创业的思想用在该项目中</p>
-<p><img src="https://i.loli.net/2020/09/20/V2kRBxpm8jzEYLN.png"></p>
+    <title>2020年09月22日-每日报告</title>
+    <url>/reports/2020/09/22/2020-09-22/</url>
+    <content><![CDATA[<h1 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h1><p>大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第18个每日报告。</p>
+<p>休息</p>
 ]]></content>
   </entry>
   <entry>
@@ -292,6 +285,20 @@
 ]]></content>
   </entry>
   <entry>
+    <title>2020年09月21日-每日报告</title>
+    <url>/reports/2020/09/21/2020-09-21/</url>
+    <content><![CDATA[<h1 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h1><p>大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第17个每日报告。</p>
+<ol>
+<li>学习《精益创业》</li>
+</ol>
+<p>目前看来加入频道的人，还是有不少交流和发言的，比微信群活跃，那么接下来也许要继续招募相关的人员。</p>
+<p>微信群也不怎么活跃，目前我已经连续发了三条，没有人后续说话。</p>
+<p>就不往那里面发了，但每日报告还是继续更新。</p>
+<h1 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h1><p>将精益创业的思想用在该项目中</p>
+<p><img src="https://i.loli.net/2020/09/20/V2kRBxpm8jzEYLN.png"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>2020年09月23日-每日报告</title>
     <url>/reports/2020/09/23/2020-09-23/</url>
     <content><![CDATA[<h1 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h1><p>大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第19个每日报告。</p>
@@ -303,10 +310,24 @@
 ]]></content>
   </entry>
   <entry>
-    <title>2020年09月22日-每日报告</title>
-    <url>/reports/2020/09/22/2020-09-22/</url>
-    <content><![CDATA[<h1 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h1><p>大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第18个每日报告。</p>
-<p>休息</p>
+    <title>2020年09月25日-每日报告</title>
+    <url>/reports/2020/09/25/2020-09-25/</url>
+    <content><![CDATA[<h1 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h1><p>大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第20个每日报告。</p>
+<ol>
+<li>学习《精益创业》</li>
+</ol>
+<h1 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h1><p>将精益创业的思想用在该项目中</p>
+<p><img src="https://i.loli.net/2020/09/20/V2kRBxpm8jzEYLN.png"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2020年09月26日-每日报告</title>
+    <url>/reports/2020/09/26/2020-09-26/</url>
+    <content><![CDATA[<h1 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h1><p>大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第21个每日报告。</p>
+<ol>
+<li>加 <a href="https://indiehackers.net/">https://indiehackers.net/</a> 为友链</li>
+<li>思考获得新成员的其他途径</li>
+</ol>
 ]]></content>
   </entry>
   <entry>
@@ -344,44 +365,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>2020年09月25日-每日报告</title>
-    <url>/reports/2020/09/25/2020-09-25/</url>
-    <content><![CDATA[<h1 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h1><p>大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第20个每日报告。</p>
-<ol>
-<li>学习《精益创业》</li>
-</ol>
-<h1 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h1><p>将精益创业的思想用在该项目中</p>
-<p><img src="https://i.loli.net/2020/09/20/V2kRBxpm8jzEYLN.png"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>2020年09月26日-每日报告</title>
-    <url>/reports/2020/09/26/2020-09-26/</url>
-    <content><![CDATA[<h1 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h1><p>大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第21个每日报告。</p>
-<ol>
-<li>加 <a href="https://indiehackers.net/">https://indiehackers.net/</a> 为友链</li>
-<li>思考获得新成员的其他途径</li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>2020年09月28日-每日报告</title>
-    <url>/reports/2020/09/28/2020-09-28/</url>
-    <content><![CDATA[<h1 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h1><p>大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第23个每日报告。</p>
-<hr>
-<p>和小楼进行通话，沟通一下这几个星期的进展以及想法。</p>
-<p>最初的那个循环假设是有问题的，Discord上的用户，并不喜欢将他们的项目在没有上线之前就放在大庭广众下进行讨论，现在所有的人都不想在公众号上宣传他们的想法。</p>
-<p>可能这有点违反天性，因为这正是《精益创业》中用很大篇幅所描述的方法，如果大家都很愿意这么做，这本书也就不用存在了。</p>
-<p>这次讨论的过程中，还没有就增长假设部分进行深入的讨论，可能在之后几天会进行。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>2020年10月1日-每日报告</title>
-    <url>/reports/2020/10/01/2020-10-01/</url>
-    <content><![CDATA[<p>中秋节快乐！</p>
-]]></content>
-  </entry>
-  <entry>
     <title>2020年09月30日-每日报告</title>
     <url>/reports/2020/09/30/2020-09-30/</url>
     <content><![CDATA[<h1 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h1><p>写了个PowerShell脚本，初步实现了每日报告编写的自动化。</p>
@@ -398,9 +381,26 @@
 ]]></content>
   </entry>
   <entry>
+    <title>2020年09月28日-每日报告</title>
+    <url>/reports/2020/09/28/2020-09-28/</url>
+    <content><![CDATA[<h1 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h1><p>大家下午好 (*´▽｀)ノノ ，昨天是新组队计划的第23个每日报告。</p>
+<hr>
+<p>和小楼进行通话，沟通一下这几个星期的进展以及想法。</p>
+<p>最初的那个循环假设是有问题的，Discord上的用户，并不喜欢将他们的项目在没有上线之前就放在大庭广众下进行讨论，现在所有的人都不想在公众号上宣传他们的想法。</p>
+<p>可能这有点违反天性，因为这正是《精益创业》中用很大篇幅所描述的方法，如果大家都很愿意这么做，这本书也就不用存在了。</p>
+<p>这次讨论的过程中，还没有就增长假设部分进行深入的讨论，可能在之后几天会进行。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>2020年10月02日-每日报告</title>
     <url>/reports/2020/10/02/2020-10-02/</url>
     <content><![CDATA[<h1 id="昨日回顾"><a href="#昨日回顾" class="headerlink" title="昨日回顾"></a>昨日回顾</h1><p>与<a href="http://indiehackers.net/">indiehackers.net</a>的comanche通话，加深双方的了解。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2020年10月1日-每日报告</title>
+    <url>/reports/2020/10/01/2020-10-01/</url>
+    <content><![CDATA[<p>中秋节快乐！</p>
 ]]></content>
   </entry>
   <entry>
@@ -417,6 +417,14 @@
 <hr>
 <p>每日报告停止发布，后面的内容都比较细，发出来也没人看得懂，只在团队内发布。</p>
 <p>每周报告，也许还会继续出。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>2020年10月21日-每日报告</title>
+    <url>/reports/2020/10/21/2020-10-21/</url>
+    <content><![CDATA[<p>独立开发者沙龙,截止到目前为止还在正常运行,每周报告没有往下写,是因为没有什么人看.</p>
+<p>各种事情很多,重要性都比这个高,也就没有继续花时间在上面.</p>
+<p>之后如果需要推广的话,有可能还会继续改进和发布.</p>
 ]]></content>
   </entry>
 </search>
